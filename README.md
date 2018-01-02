@@ -1,0 +1,2 @@
+# templeate
+file.js
